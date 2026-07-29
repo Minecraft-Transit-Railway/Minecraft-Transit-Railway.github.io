@@ -25,7 +25,7 @@ messages["en"] = {
 
   "feature.4.title": "Extendable",
   "feature.4.p.1": "Apart from the built-in vehicles bundled with this mod, you may also create your own custom vehicles and signage with resource packs.",
-  "feature.4.p.2": "In addition, there is a wide variety of community-made resource packs from various regions, as well as addon mods for the MTR that you can install!",
+  "feature.4.p.2": "In addition, there is a wide variety of community-made resource packs from various regions, as well as addon mods for MTR that you can install!",
 
   "home": "Home",
 
