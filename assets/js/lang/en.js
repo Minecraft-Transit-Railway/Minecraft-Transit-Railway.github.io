@@ -5,15 +5,15 @@ messages["en"] = {
   "title": "Minecraft Transit Railway",
 
   "banner.title": "Minecraft Transit Railway",
-  "banner.subtitle": "A Minecraft mod for building fully-fleged, autonomous transport network with built-in System Map and more!",
+  "banner.subtitle": "A Minecraft mod for building a fully-fledged, autonomous transport network with a built-in System Map and more!",
 
   "feature.title": "Features",
 
   "feature.1.title": "Ease of Use",
-  "feature.1.p.1": `The fundemental features and concept of the Minecraft Transit Railway Mod is designed to be simple and intuitive.
-  {0} More complex features like signalling is available, but is not a requirement to understand it all in one go.`,
+  "feature.1.p.1": `The fundamental features and concept of the Minecraft Transit Railway Mod are designed to be simple and intuitive.
+  {0} More complex features like signalling are available, but it is not a requirement to understand it all in one go.`,
   "feature.1.p.2": "We also have {0} for newcomers to get started!",
-  "feature.1.p.3": "Youtube Tutorials",
+  "feature.1.p.3": "YouTube tutorials",
 
   "feature.2.title": "Real-Time Simulation",
   "feature.2.p.1": "Schedule your choice of transport vehicle to automatically depart at any time and frequency you wish with mixed vehicle configurations.",
@@ -21,11 +21,11 @@ messages["en"] = {
 
   "feature.3.title": "Built-in System Map",
   "feature.3.p.1": "As your network grows larger, it may become more difficult to keep track of everything.",
-  "feature.3.p.2": "This mod comes in with a built-in system map accessible with your web browser, which can show a visual representation of your network, check when the next train arrives and more!",
+  "feature.3.p.2": "This mod comes in with a built-in system map accessible with your web browser, which can show a visual representation of your network, check when the next train arrives, and more!",
 
   "feature.4.title": "Extendable",
-  "feature.4.p.1": "Apart from the built-in vehicles bundled with this mod, you may also create your own custom vehicles and signages with Resource Packs.",
-  "feature.4.p.2": "In addition, there are a wide variety of community-made contents from various regions, as well as addon mods for the MTR that you can install!",
+  "feature.4.p.1": "Apart from the built-in vehicles bundled with this mod, you may also create your own custom vehicles and signage with resource packs.",
+  "feature.4.p.2": "In addition, there is a wide variety of community-made resource packs from various regions, as well as addon mods for MTR that you can install!",
 
   "home": "Home",
 
@@ -33,7 +33,7 @@ messages["en"] = {
   "act.download.nav": "Download",
   "act.download.button": "Download",
   "act.download.p.1": "This mod is available for download on both CurseForge and Modrinth.",
-  "act.download.p.2": "Supports {0} and {1} modloader, all latest minor version from 1.16 onwards.",
+  "act.download.p.2": "Supports {0} and {1} modloader, all latest minor versions from 1.16 onwards.",
   "act.download.fabric": "Fabric",
   "act.download.forge": "Forge",
   "act.download.modrinth": "Modrinth",
@@ -47,12 +47,12 @@ messages["en"] = {
   "act.discord.title": "Discord",
   "act.discord.nav": "Discord",
   "act.discord.button": "Join Discord",
-  "act.discord.p.1": "Gets help and support with the Minecraft Transit Railway mod, and share insights with other players!",
+  "act.discord.p.1": "Get help and support with the Minecraft Transit Railway mod, and share insights with other players!",
 
   "act.patreon.title": "Support the mod!",
   "act.patreon.nav": "Patreon",
   "act.patreon.button": "Join Patreon",
-  "act.patreon.p.1": "Making a mod is not an easy task, join patreon to enjoy custom roles on the Discord Server among other perks!",
+  "act.patreon.p.1": "Making a mod is not an easy task; join Patreon to enjoy custom roles on the Discord server, among other perks!",
 
   "footer.p.1": "This is not an official Minecraft product.",
   "footer.p.2": "We are not approved nor associated with Mojang or Microsoft."
